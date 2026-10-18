@@ -30,7 +30,7 @@
 
 ---
 
-# 🛠️ 技術棧 (Tech Stack)
+# 🛠️ 技術 (Tech Stack)
 
 * 後端架構 (Backend)：PHP (OOP 邏輯封裝與模組化開發)
 * 資料庫 (Database)：MySQL / MariaDB (U1233115_travel_pockets.sql)
